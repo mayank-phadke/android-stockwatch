@@ -15,7 +15,7 @@ Fetches data from [IEX Cloud](https://iexcloud.io/)
 
 ### Steps to run:
 1. [Get an API Key](#how-to-get-your-api-key) from IEX Cloud
-2. In [StockDataDownloader.java](./app/src/main/java/com/example/stockwatch/StockDataDownloader.java) replace `YOUR_API_KEY` with your API key.
+2. In [StockDataDownloader.java](./app/src/main/java/com/example/stockwatch/StockDataDownloader.java#L20) replace `YOUR_API_KEY` with your API key.
 3. Run the project through Android Studio.
 
 
